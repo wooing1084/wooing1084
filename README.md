@@ -8,7 +8,7 @@
 
 📋 Career
 ---
-- Kwangwoon Artificial Intelligence High School (2016 ~ 2019)
+- Kwangwoon Artificial Intelligence High School (2016 ~ 2018)
 - Gachon University (2019.03 ~)
 - Student association of software department, Gachon University (2019, 2020, 2023)
 - Undergraduate student at HCI Lab (2022.11 ~ )
