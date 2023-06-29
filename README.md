@@ -1,6 +1,5 @@
 👨‍💻 SungHoon Jung 👨‍💻
 ---
-- Department of AI and Software, Gachon University
 - Interested in computer vision and backend.
 - I want to do various projects with various people
 - Email: jungsh0228@gmail.com
@@ -9,7 +8,7 @@
 📋 Career
 ---
 - Kwangwoon Artificial Intelligence High School (2016 ~ 2018)
-- Gachon University (2019.03 ~)
+- Department of AI and Software, Gachon University (2019.03 ~)
 - Student association of software department, Gachon University (2019, 2020, 2023)
 - Undergraduate student at HCI Lab (2022.11 ~ )
 
