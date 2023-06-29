@@ -3,7 +3,7 @@
 - Interested in computer vision and backend.
 - I want to do various projects with various people
 - Email: jungsh0228@gmail.com
-- Youtube: https://www.youtube.com/channel/UC6UBOJSAEYdKs_AULXAvbG
+- Youtube: [https://www.youtube.com/channel/UC6UBOJSAEYdKs_AULXAvbG](https://www.youtube.com/channel/UC6UBOJSAEYdKs_AULXAvbGQ)
 
 📋 Career
 ---
