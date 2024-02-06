@@ -11,11 +11,15 @@
 - Department of AI and Software, Gachon University (2019.03 ~)
 - Student association of software department, Gachon University (2019, 2020, 2023)
 - Undergraduate student at HCI Lab (2022.11 ~ )
+- [UMC 5기] 대학생 연학 IT개발 동아리 spring boot challenger (2023.09 ~ 2023.02)
 
 💻 Projects(Record)
 ---
 - Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.08)
-- AI commentary application for sports​ (2023.03 ~ )
+- ⌜영상 기반 선수 추적 및 이벤트 인식 기술을 활용한 AI 기반 스포츠 경기 중계 기술⌟, 한국소프트웨어종합학술대회(KSC), 2023
+  - 2023 KSC 학부생/주니어논문경진대회 학부생부분 장려상, 한국정보과학회
+
+
 
 🛠️ Tech Stack
 ---
@@ -26,6 +30,7 @@ Languages
 Libraries & Frameworks
 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/DirectX-007396?style=for-the-badge&logo=DirectX&logoColor=white">  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-success?style=for-the-badge&logo=Spring&logoColor=white"/>
 
 IDE
 
