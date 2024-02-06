@@ -11,7 +11,7 @@
 - Department of AI and Software, Gachon University (2019.03 ~)
 - Student association of software department, Gachon University (2019, 2020, 2023)
 - Undergraduate student at HCI Lab (2022.11 ~ )
-- [UMC 5기] 대학생 연학 IT개발 동아리 spring boot challenger (2023.09 ~ 2023.02)
+- [UMC 5기] 대학생 연합 IT개발 동아리 spring boot challenger (2023.09 ~ 2023.02)
 
 💻 Projects(Record)
 ---
