@@ -17,7 +17,7 @@
 ---
 - Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.08)
 - ⌜영상 기반 선수 추적 및 이벤트 인식 기술을 활용한 AI 기반 스포츠 경기 중계 기술⌟, 한국소프트웨어종합학술대회(KSC), 2023
-  - 2023 KSC 학부생/주니어논문경진대회 학부생부분 장려상, 한국정보과학회
+  - 2023 KSC 학부생/주니어논문경진대회 학부생부문 장려상, 한국정보과학회
 
 
 
